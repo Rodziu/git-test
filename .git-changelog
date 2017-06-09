@@ -1,1 +1,1 @@
-{"detectBy":"date","dateFormat":"Y-m-d H:i"}
+{"dateFormat":"Y-m-d H:i","changeLogFormat":"# {version} ({date})\n\n{text}","newlinesAsLists":true,"detectBy":"version"}
